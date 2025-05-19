@@ -23,7 +23,7 @@ This command-line tool detects potential phishing links by analyzing URLs for su
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/phishing-link-scanner.git
+   git clone https://github.com/kabilala/phishing-link-scanner.git
    cd phishing-link-scanner
    ```
 
