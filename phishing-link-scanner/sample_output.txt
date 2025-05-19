@@ -1,0 +1,76 @@
+----------------------------------------------------------------------------
+🔍 PHISHING LINK SCANNER RESULTS
+----------------------------------------------------------------------------
+URL: http://paypai.com/account/login.php?secure=true&verify=needed
+----------------------------------------------------------------------------
+❌ SUSPICIOUS [85/100]: This URL contains phishing indicators
+
+ANALYSIS:
+• Domain name is similar to a popular website
+• Uses insecure HTTP protocol
+• URL path contains security-baiting term
+• URL contains suspicious query parameter
+• Domain contains homoglyphs
+• URL contains PHP script potentially handling credentials
+
+RECOMMENDATION:
+This URL exhibits characteristics commonly found in phishing attempts. Avoid
+clicking this link or entering any personal information. This URL contains
+multiple high-risk indicators that strongly suggest malicious intent.
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+🔍 PHISHING LINK SCANNER RESULTS
+----------------------------------------------------------------------------
+URL: https://www.paypal.com/signin
+----------------------------------------------------------------------------
+✓ SAFE [15/100]: This URL appears to be legitimate
+
+ANALYSIS:
+No significant issues detected
+
+RECOMMENDATION:
+This URL does not show strong phishing indicators but always exercise caution.
+While the risk appears low, verify the source if you're uncertain.
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+🔍 PHISHING LINK SCANNER RESULTS
+----------------------------------------------------------------------------
+URL: http://amaz0n.com-secure-verification.xyz/login
+----------------------------------------------------------------------------
+❌ DANGEROUS [95/100]: This URL contains phishing indicators
+
+ANALYSIS:
+• Domain contains homoglyphs
+• Uses insecure HTTP protocol
+• Domain name is similar to a popular website
+• Uses suspicious TLD
+• Subdomain contains security-baiting term
+• URL path contains security-baiting term
+
+RECOMMENDATION:
+This URL exhibits characteristics commonly found in phishing attempts. Avoid
+clicking this link or entering any personal information. This URL contains
+multiple high-risk indicators that strongly suggest malicious intent.
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
+🔍 PHISHING LINK SCANNER RESULTS
+----------------------------------------------------------------------------
+URL: https://bit.ly/3xR92pQ
+----------------------------------------------------------------------------
+❌ SUSPICIOUS [75/100]: This URL contains phishing indicators
+
+ANALYSIS:
+• URL uses a shortening service
+• URL shortener may be hiding the true destination
+
+RECOMMENDATION:
+This URL exhibits characteristics commonly found in phishing attempts. Avoid
+clicking this link or entering any personal information. URL shorteners hide
+the actual destination, making it impossible to verify safety before clicking.
+----------------------------------------------------------------------------
